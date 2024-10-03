@@ -11,7 +11,6 @@ const config = {
       ADDRESSES.ethereum.WETH, //wETH
       ADDRESSES.ethereum.WBTC, //wBTC
       ADDRESSES.ethereum.USDC, //USDC
-      ADDRESSES.ethereum.RAI, //RAI
       ADDRESSES.ethereum.LUSD, //LUSD
       ADDRESSES.ethereum.CRV, //CRV
       ADDRESSES.ethereum.BAL, //BAL
@@ -25,6 +24,7 @@ const config = {
       ADDRESSES.ethereum.cbETH, //cbETH
       ADDRESSES.ethereum.CRVUSD, //CRVUSD
       ADDRESSES.ethereum.pyUSD, //pyUSD
+      "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919", //RAI
       '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2', //MKR
       '0xaF4ce7CD4F8891ecf1799878c3e9A35b8BE57E09' //wUSK
     ],
